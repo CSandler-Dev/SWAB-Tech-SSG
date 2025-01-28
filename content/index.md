@@ -3,12 +3,13 @@ title: Welcome to SWAB Tech
 ---
 #### READ THIS FIRST⬇️
 
->This is a website that has a map of training materials for SWAB Exec directors. Notice the map in the {map location on SSG}, that is the structure of the training. As you proceed through, follow the web to learn about the tech tools we use in SWAB through written and video how-tos. Start below!
+>This website will be home to all of the ITO materials, breakdowns, and guides. As new content is added, the site will change. Thanks for learning all of this with me!
 
 #### How to Navigate this Site
 - If you're ever lost, notice that the title in the left corner is the home button!
 - Graph
-	- on desktop especially, there is a map tool that visualizes all of the "links" on the page
+	- usually directly on the right of the text (or below) the Map is super helpful in understanding how things connect
+		- the icon in the upper right hand corner of the Graph view shows the full web  ![[Graph View Button.png]]
 		- take a look!
 - Icons
 	- 👆 : hover or click on the links
