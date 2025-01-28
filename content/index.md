@@ -14,4 +14,7 @@ title: Welcome to SWAB Tech
 	- 👆 : hover or click on the links
 	- 🔎 : take a look at this info, its important
 
-# 🏠[[Exec Home]]👆
+---
+
+If you read above this, you're ready! Now click home⬇️
+# 🏠[[Exec Home]]
