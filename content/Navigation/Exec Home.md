@@ -8,12 +8,13 @@ Overview:
 	- Is safer
 	- Gives us a more *professional* vibe
 
-##### 1. Initial [[Initial Google Setup]]👆 For New Exec Members 
-
-##### 2. List of All Useful [[SWorkspace Apps]]👆
-
->The MOST IMPORTANT apps for you to really become comfortable with are and Please take some good time looking through them!
-
-
+Steps:
+1. Initial [[Initial Google Setup]]👆 For New Exec Members 
+2. List of All Useful [[SWorkspace Apps]]👆
 ---
+>The MOST IMPORTANT apps for you to really become comfortable with are [[Google Chat]] and [[Google Drive]].
+>Please take some good time looking through them!
+
+
+
 

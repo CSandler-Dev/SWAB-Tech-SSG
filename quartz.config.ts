@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "tech.swabuga.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -31,7 +31,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#ffffff",
-          lightgray: "#f0f0f0",
+          lightgray: "#dddddd",
           gray: "#00ab51",
           darkgray: "#000000",
           dark: "#161618",
@@ -42,7 +42,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#1E241E  ",
-          lightgray: "#3a3a3a",
+          lightgray: "#335b31",
           gray: "#00ab51",
           darkgray: "#ffffff",
           dark: "#ffffff",
