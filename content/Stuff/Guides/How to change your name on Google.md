@@ -1,4 +1,4 @@
-Watch the video tutorial: [Profile Name Change](Profile%20Name%20Change.mp4)👆
+### 🎬 Watch the video tutorial: [Profile Name Change](Profile%20Name%20Change.mp4)👆
 
 ---
 1. Click the profile icon in the upper right hand corner
@@ -14,3 +14,5 @@ Watch the video tutorial: [Profile Name Change](Profile%20Name%20Change.mp4)👆
 6. Click on "Phone"
 	1. Click on the number that says "Verified"
 	2. Edit the number to match yours
+---
+⬅️Go back to finish link 2

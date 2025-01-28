@@ -1,5 +1,6 @@
-> Here's the steps to setup your SWAB profile (i.e name, email, etc.) on SWorkspace. 
-> SUPER IMPORTANT 🔎
+I know this seems complicated but, we will go over how to use this next meeting. Just make sure to complete link 1, follow the step by step then, come back to this page to complete link 2. 
+
+> SUPER IMPORTANT : CHANGE YOUR ACCOUNT INFO 🔎
 ### Step by Step
 
 1. Change Your Personal Info on SWorkspace : [[How to change your name on Google]]

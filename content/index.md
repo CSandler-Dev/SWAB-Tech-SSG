@@ -14,6 +14,7 @@ title: Welcome to SWAB Tech
 - Icons
 	- 👆 : hover or click on the links
 	- 🔎 : take a look at this info, its important
+	- ⬅️⬇️ : follow the arrow where it says to go
 
 ---
 
