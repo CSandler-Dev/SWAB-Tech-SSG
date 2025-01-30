@@ -10,11 +10,11 @@ title: Welcome to SWAB Tech!
 > 
 > [👆 Navigating This Website 🗺️](👆%20Navigating%20This%20Website%20🗺️.md)
 
-| MAIN #MENUS                    |
-| ------------------------------ |
-| [[Initial Exec Training 🏠]]   |
-| [[Online Tech Training 🏠]]    |
-| [[Specific Exec Positions 🏠]] |
+| MAIN MENUS                |
+| ------------------------- |
+| [[Exec Training 🏠]]      |
+| [[Specific Positions 🏠]] |
+| [[Platform Training 🏠]]  |
 
 ---
 

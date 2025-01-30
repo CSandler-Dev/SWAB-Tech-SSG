@@ -5,6 +5,7 @@
 #### How to Navigate this Site & Page
 
 ![Page Layout](Page%20Layout.png)
+Follow the numbers above ⬆️
 1. Home Button 🏠
 	- You can always click here to return to the main page (& main menu)
 2. Dark/Light Mode 🌙
@@ -24,9 +25,12 @@
     - Click the button in the upper right corner to expand the view
 7. Tags
     - These are used to group like pages so you can find them easier
-    - Ex: #MENUS will be used to mark all pages that are menus
+    - Ex: "EARLY BIRD" will be used to mark all pages that are about Early Bird
 
 ##### Icons
 - 👆 : hover or click on the links
 - 🔎 : take a look at this info, its important
 - ⬅️⬇️ : follow the arrow where it says to go
+
+
+
