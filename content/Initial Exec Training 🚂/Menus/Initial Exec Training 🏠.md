@@ -13,8 +13,9 @@ Overview:
 	- Gives us a more *professional* vibe
 
 ---
->The MOST IMPORTANT apps for you to really become comfortable with are [[Google Chat]] and [[Google Drive]].
->Please take some good time looking through them!
+
+> The MOST IMPORTANT apps for you to really become comfortable with are [[Google Chat]] and [[Google Drive]].
+> Please take some good time looking through them!
 
 
 
