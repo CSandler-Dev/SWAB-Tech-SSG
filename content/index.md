@@ -13,8 +13,8 @@ title: Welcome to SWAB Tech!
 | MAIN MENUS                |
 | ------------------------- |
 | [[🏠 Exec Training]]      |
-| [[Specific Positions 🏠]] |
-| [[Platform Training 🏠]]  |
+| [[🏠Specific Positions]] |
+| [[🏠Platform Training]]  |
 
 ---
 

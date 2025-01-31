@@ -12,7 +12,7 @@ Follow the numbers above ⬆️
 	- Switch between your favorite looks
 3. Explorer 
 	- Site pages are sorted into folders based on purpose which correlates with the Main Menu
-	- You can navigate each folder by going to the "Menus" folder
+	- Each folder has a note titled "🏠Title Here" which is the "home menu" for the folder. If you get lost go there
 4. Main Menu 
 	- Each folder will have a menu like this so you can navigate the content in the folder
 5. Callouts
