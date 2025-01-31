@@ -31,6 +31,8 @@ Follow the numbers above ⬆️
 - 👆 : hover or click on the links
 - 🔎 : take a look at this info, its important
 - ⬅️⬇️ : follow the arrow where it says to go
+- 🎬 : video guide, watch me explain on video
+- 🏠 : this is a home menu for a folder
 
 
 
