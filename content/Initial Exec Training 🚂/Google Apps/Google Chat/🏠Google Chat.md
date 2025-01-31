@@ -4,7 +4,7 @@
 This app is very important during the year. We really need to stick to it for SWAB "business" and everyone needs to be really comfortable using it on the reg. Madden will be sending things out and we will all be communicating on it so please look into this guide as a start to becoming comfortable.
 
 ---
-#### 🎬Watch the video walkthrough here 
+#### 🎬Watch the video walkthrough here (Coming Soon)
 ## How to Navigate the Main Page
 ![Chat Page Guide](Chat%20Page%20Guide.png)
 **FOLLOW THE NUMBERS FROM ABOVE ⬆️**

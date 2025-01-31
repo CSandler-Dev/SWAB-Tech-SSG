@@ -1,6 +1,6 @@
 ## Menu
 1. [[Account Setup]]👆 For New Exec Members 
-2. [[App Menu]]👆 (COMING SOON)
+2. [[🏠App Menu]]👆 (COMING SOON)
 
 #### Google Workspace (SWORKSPACE)
 

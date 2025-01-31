@@ -3,7 +3,7 @@
 
 | **Google App**                            | **Description**                                                                     |
 | ----------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Google Chat Guide](Google%20Chat%20Guide.md)           | **COMMS:** this is where we communicate and send materials                          |
+| [🏠Google Chat](🏠Google%20Chat.md)           | **COMMS:** this is where we communicate and send materials                          |
 | [Google Drive](Google%20Drive.md)         | **INFO:** this is where all of our data is stored                                   |
 | [Google Calendar](Google%20Calendar.md)   | **TIMELINE:** this is where we will record events on the yearly timeline            |
 | [[Gmail]]                                 | **EXTERNAL:** this is how we communicate with stakeholders                          |
