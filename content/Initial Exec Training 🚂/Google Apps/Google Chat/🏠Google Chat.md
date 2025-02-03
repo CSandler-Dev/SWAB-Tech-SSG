@@ -1,12 +1,13 @@
->Chat is SWAB's information and communication hub. In this app, we utilize [[Spaces]] and [[Direct Messages]] to communicate outside of meetings, share [[Google Drive]] files, and utilize Google Meet to have quick meetings and check-ins across the week.
+>Chat is SWAB's information and communication hub. In this app, we utilize [[Spaces]] and [[Direct Messages]] to communicate outside of meetings, share [[🏠Google Drive]] files, and utilize Google Meet to have quick meetings and check-ins across the week.
 
 > [!warning]  IMPORTANT 
-This app is very important during the year. We really need to stick to it for SWAB "business" and everyone needs to be really comfortable using it on the reg. Madden will be sending things out and we will all be communicating on it so please look into this guide as a start to becoming comfortable.
+This app is very important during the year. We really need to stick to it for SWAB "business" and everyone needs to be really comfortable using it on the reg. Madden will be sending things out and we will all be communicating on it so please look into this guide as a start to becoming comfortable. This is the most in depth guide and please read it FULLY!!!
+
 
 ---
-#### 🎬Watch the video walkthrough here (Coming Soon)
+#### 🎬Watch the FULL video walkthrough here (Coming Soon)
 ## How to Navigate the Main Page
-![Chat Page Guide](Chat%20Page%20Guide.png)
+![Chat Page Guide](Chat%20Page%20Guide.png)]
 **FOLLOW THE NUMBERS FROM ABOVE ⬆️**
 1. New Chat: This allows you to...
 	1. Search & select exec contacts to [Direct Messages](Direct%20Messages.md)
@@ -29,3 +30,5 @@ This app is very important during the year. We really need to stick to it for SW
 	1. Incredibly helpful to keep chat organized in spaces & DMS
 8. Read/Unread Toggle
 	1. Allows you to either only see unread messages
+9. [Chat Search](Chat%20Search.md)
+	1. Used to search the Chat app (or specific spaces)

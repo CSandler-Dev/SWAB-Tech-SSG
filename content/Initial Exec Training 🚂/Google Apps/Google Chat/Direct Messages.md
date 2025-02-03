@@ -7,7 +7,6 @@
 - Etc
 
 ---
-#### 🎬Watch the Video Walkthrough Here (Coming Soon)
 ### Navigating A DM Page
 ![DM Page Guide](DM%20Page%20Guide.png)
 **FOLLOW THE NUMBERS FROM ABOVE ⬆️**

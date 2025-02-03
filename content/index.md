@@ -1,5 +1,5 @@
 ---
-title: Welcome to SWAB Tech!
+title: 🌎✨Welcome to SWAB Tech!✨🌎
 ---
 >This website will be home to all of the ITO materials, breakdowns, and guides. As new content is added, the site will change. Thanks for learning all of this with me!
 
@@ -15,8 +15,4 @@ title: Welcome to SWAB Tech!
 | [[🏠 Exec Training]]      |
 | [[🏠Specific Positions]] |
 | [[🏠Platform Training]]  |
-
----
-
-## [[Full Table of Contents]]
 
