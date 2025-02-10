@@ -1,1 +1,1 @@
-I’m testing obsidian sync rn
+Coming soon
